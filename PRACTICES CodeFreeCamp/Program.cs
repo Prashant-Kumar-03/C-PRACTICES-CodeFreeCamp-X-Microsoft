@@ -16,7 +16,8 @@ namespace PRACTICES_CodeFreeCamp
             //ConcatenationString.Run();
             //OperationAndImpliciteConversion.Run();
             //TemperatureConverter.Run();
-            StudentsGrade.Run();
+            //StudentsGrade.Run();
+            GPAcalculator.Run(); // calling the GPAcalculator code
 
         }
     }
