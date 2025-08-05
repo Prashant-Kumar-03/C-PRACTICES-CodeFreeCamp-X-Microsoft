@@ -13,7 +13,9 @@ namespace PRACTICES_CodeFreeCamp
             //Variables.Run(); 
             //ImpliciteVar.Run();
             //EscapeSequence.Run();
-            ConcatenationString.Run();
+            //ConcatenationString.Run();
+            //OperationAndImpliciteConversion.Run();
+            TemperatureConverter.Run();
 
         }
     }
