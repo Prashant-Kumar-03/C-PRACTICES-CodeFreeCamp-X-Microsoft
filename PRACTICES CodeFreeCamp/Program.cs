@@ -15,7 +15,8 @@ namespace PRACTICES_CodeFreeCamp
             //EscapeSequence.Run();
             //ConcatenationString.Run();
             //OperationAndImpliciteConversion.Run();
-            TemperatureConverter.Run();
+            //TemperatureConverter.Run();
+            StudentsGrade.Run();
 
         }
     }
